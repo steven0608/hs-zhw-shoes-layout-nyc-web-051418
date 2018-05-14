@@ -302,7 +302,7 @@ footer {
 		text-decoration: underline;
 	}
 	#display2{
-		display: ab;
+		display: "ab";
 	}
 	.position1{
 		position: a;
