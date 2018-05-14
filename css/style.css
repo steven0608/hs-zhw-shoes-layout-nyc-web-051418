@@ -305,5 +305,9 @@ footer {
 		position: relative;
 		width: 70%;
 	}
+	.position2{
+		position: relative;
+		width:30%;
+	}
 
 /* code examples copyright Jonathan Grover 2012 */
