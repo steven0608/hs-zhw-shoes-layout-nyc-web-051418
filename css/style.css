@@ -306,11 +306,11 @@ footer {
 	}
 	.position1{
 		position: a;
-		/*width: 70%;*/
+		width: 70%;
 	}
 	.position2{
 		position: b;
-		/*width:30%;*/
+		width:30%;
 	}
 
 /* code examples copyright Jonathan Grover 2012 */
