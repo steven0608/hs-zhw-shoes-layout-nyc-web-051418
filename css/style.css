@@ -301,15 +301,14 @@ footer {
 		color: #555;
 		text-decoration: underline;
 	}
-	#display2{
-		display: "ab";
-	}
+
 	.position1{
-		position: a;
+
+	float: left;
 		width: 70%;
 	}
 	.position2{
-		position: b;
+float: right;
 		width:30%;
 	}
 
